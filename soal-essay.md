@@ -1,0 +1,7 @@
+## Bahasa Pemrograman Javascript NodeJS
+`Node JS` merupakan pustaka untuk server, dengan banyak module yang telah disediakan sehingga tidak perlu lagi menggunakan web server seperti `Apache` dan lainnya, `node JS` juga merupakan sebuah platform dimana dapar menjalankan kode `Javascript` pada server, sehingga tidak perlu ditampilkan di browser, dengan demikian juga `Node JS` ini dapat menjalankan situs, aplikasi atau game berbasis browser dengan performa yang cukup tinggi. selain itu di `Node JS` ini ada juga `node package manager` atau `npm` dimana tersedia banyak sekali package yang open source untuk digunakan di `node JS` seperti contohnya `Express JS`, `Bcryptjs`, `jsonwebtoken` dan masih banyak lagi yang siap digunakan untuk menambahkan fitur di situs kita. 
+
+## Aturan Bahasa Pemrograman Node JS
+- `Node JS` memiliki banyak sekali modul dari sisi server hingga sisi client, sehingga aturan dari `Node JS`    itu sendiri adalah dari modul tersebut.
+- Jika ingin melakukan pertukaran data maka pada `Node JS` ini dapat menggunakan `JSON`, `JSON` ini asli produk dari `Node JS`, pertukaran data menggunakan `JSON` dapat bersifat ringan.
+- `Node JS` memiliki dukungan untuk `HTTP` atau `HTTPS`, sehingga dapat menggunakan `GET`, `POST` dan masih banyak lagi untuk membangun `RESTAPI`.
