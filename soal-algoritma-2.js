@@ -12,8 +12,12 @@ barr.push(arr1)
 barr.push(arr2)
 barr.push(arr3)
 
+// for (let i = 0; i < barr.length; i++) {
+//     console.log(barr[i].sort())
+// }
+
 for (let i = 0; i < barr.length; i++) {
-    console.log(barr[i].sort())
+    console.log(barr[i].sort(function(a, b){return a-b}))
 }
 
 for (let i = 0; i < barr.length; i++) {
